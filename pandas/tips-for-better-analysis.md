@@ -14,3 +14,6 @@ Missing Values can be treated in 3 ways,
 # Missing Vals  
 * Imputation.  
 * Leave them as it is.
+
+# Dummies
+* pandas.get_dummies(data['']) method changes the categorical variables to one-hot-encoding.
