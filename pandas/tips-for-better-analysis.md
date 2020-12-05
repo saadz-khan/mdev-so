@@ -7,10 +7,10 @@ data['Price Binned'] = pandas.cut(data["Price Each"], bins, labels=group_names, 
 
 # Normalization  
 Missing Values can be treated in 3 ways,  
-Feature Scaling F-Fmax  
-Min-Max Normalization  
-Z-score data-avg/Standard Deviation __Best for outliers__.  
+* Feature Scaling F-Fmax  
+* Min-Max Normalization  
+* Z-score data-avg/Standard Deviation __Best for outliers__.  
 
 # Missing Vals  
-Imputation.  
-Leave them as it is.
+* Imputation.  
+* Leave them as it is.
