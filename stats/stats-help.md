@@ -1,5 +1,5 @@
-Some Stats cheat sheet/help.  
-#Pearson Correlation
+#### Some Stats cheat sheet/help.  
+# Pearson Correlation
 ### Corr Coefficient  
 Close to +1 Large Positive relationship  
 Close to -1 Large Neg relationship  

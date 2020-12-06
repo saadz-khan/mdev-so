@@ -5,7 +5,7 @@ __Used to understand the range of data which is not a continous values, can be u
 * Not for relationships between graphs.
 
 # Scatter Plots
-__ Used to find the continous values and their range such as Price.__
+__Used to find the continous values and their range such as Price.__
 * Shows relationship between two variables.  
 * Each observation as a point.  
 * Target Variable on y-axis.  
