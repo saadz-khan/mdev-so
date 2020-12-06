@@ -16,4 +16,15 @@ Missing Values can be treated in 3 ways,
 * Leave them as it is.
 
 # Dummies
-* pandas.get_dummies(data['']) method changes the categorical variables to one-hot-encoding.
+* pandas.get_dummies(data['']) method changes the categorical variables to one-hot-encoding.  
+
+# GroupBy  
+* Categorical Variables
+* Group data into categories
+* Single or multiple variables  
+
+# Pivot
+* Categorical Variables in columns easy to visualize then GroupBy Method
+* Index and Column to pivot in different columns.
+
+
