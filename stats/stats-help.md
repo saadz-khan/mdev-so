@@ -20,8 +20,8 @@ stats.pearsonr(df[""], df[""])
 __Tests for two categorical variables independence hypothesis testing  
 cont_table = pd.crosstab(df[''], df[''])  
 scipy.stats.chi2_contingency(cont_table, correction = True)__  
-### Chi-Square Stats
-### P-Value
-###  Degree of Freedom 
+* Chi-Square Stats
+* P-Value
+*  Degree of Freedom 
 (cat1-1)*(cat2-1)  
-### Expected Values
+* Expected Values
