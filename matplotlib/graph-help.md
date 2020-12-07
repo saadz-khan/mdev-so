@@ -20,3 +20,17 @@ Correlation between two features.
 * Shows relation between 2 variables. Related or not
 * Straight line zero slope then no relation, excluded from predictions.
 * sns.regplot(x,y, data= )
+
+# Residual Plot
+Model evaluation using visualization mean to be zero,
+* Both variance line to be constant, horizontal.
+* sns.residplot(df(x-axis), df(y-axis))
+
+# Distribution Plot
+Model evaluation with more independent variables.
+* Compare actual values and predicted values
+* ax = sns.distplot(df[Actual], hist=False)
+* sns.distplot(Pred_out, hist=False)
+
+
+
